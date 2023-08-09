@@ -1,0 +1,5 @@
+RENCANA KE DEPAN
+* Membuat Blog
+* Belajar FrontEnd
+  ^ Semua CSS
+  ^ Javascript
