@@ -1,5 +1,6 @@
 RENCANA KE DEPAN
 * Membuat Blog
+* Mebeli Hosting dan Domain
 * Belajar FrontEnd
   ^ Semua CSS
   ^ Javascript
